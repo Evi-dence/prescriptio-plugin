@@ -1,0 +1,16 @@
+{
+  "name": "prescriptio",
+  "description": "Le plugin Prescriptio : la donnée publique du bâti français dans Claude.",
+  "owner": {
+    "name": "Ghislain Levrat",
+    "email": "contact@prescriptio.fr"
+  },
+  "plugins": [
+    {
+      "name": "prescriptio",
+      "source": "./",
+      "description": "Accompagner les industriels et entreprises du bâti, du repérage des affaires au suivi de leur prospection.",
+      "version": "1.0.1"
+    }
+  ]
+}

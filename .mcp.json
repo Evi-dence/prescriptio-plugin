@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prescriptio": {
+      "type": "http",
+      "url": "https://prescriptio.fr/api/mcp"
+    }
+  }
+}

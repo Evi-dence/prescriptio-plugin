@@ -1,0 +1,21 @@
+{
+  "name": "prescriptio",
+  "displayName": "Prescriptio",
+  "version": "1.0.1",
+  "description": "Accompagner les industriels et entreprises du bâti, du repérage des affaires au suivi de leur prospection.",
+  "author": {
+    "name": "Ghislain Levrat",
+    "email": "contact@prescriptio.fr",
+    "url": "https://prescriptio.fr"
+  },
+  "homepage": "https://prescriptio.fr",
+  "repository": "https://github.com/Evi-dence/prescriptio-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bâti",
+    "marchés publics",
+    "entreprises",
+    "projets",
+    "prospection"
+  ]
+}
