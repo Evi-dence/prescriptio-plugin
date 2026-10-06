@@ -1,8 +1,8 @@
 # Prescriptio pour Claude
 
-Lisez moins. Signez plus.
+La plateforme 360° du bâti
 
-Prescriptio est le système de travail du prescripteur de matériaux, pour les industriels et entreprises du bâti. Du repérage d’une affaire au suivi de votre prospection, votre agent vous aide à explorer les projets et marchés publics, à retrouver les acteurs cités dans les dossiers et à lire les pièces disponibles. Dans votre espace connecté, organisez votre base de contacts, suivez vos projets et préparez vos réponses aux marchés, vos messages, campagnes, rendez-vous et tournées. Les analyses s’appuient sur les pièces et informations disponibles. Un compte Prescriptio est nécessaire ; les fonctions accessibles dépendent de vos droits et quotas.
+Prescriptio est la plateforme 360° pour les professionnels du bâti. Du repérage d’une affaire au suivi de votre prospection, votre agent vous aide à explorer les projets et marchés publics, à retrouver les acteurs cités dans les dossiers et à lire les pièces disponibles. Dans votre espace connecté, organisez votre base de contacts, suivez vos projets et préparez vos réponses aux marchés, vos messages, campagnes, rendez-vous et tournées. Les analyses s’appuient sur les pièces et informations disponibles. Un compte Prescriptio est nécessaire ; les fonctions accessibles dépendent de vos droits et quotas.
 
 ## Ce que le plugin installe
 
